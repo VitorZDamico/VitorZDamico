@@ -11,9 +11,9 @@
 - 👨‍💻 Desenvolvedor Python 
 
 <div>
-  <a href="https://github.com/victordamico">
+  <a href="https://github.com/vitorzdamico">
   <img height="151em" src="https://github-readme-stats.vercel.app/api?username=vitorzdamico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorzdamico&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorzdamico&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
   <div>
@@ -25,9 +25,9 @@
 ###
   
   <div> 
-  <a href="https://www.linkedin.com/in/victor-d-amico-6a1681226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
- ![snake gif](https://github.com/victordamico/victordamico/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/vitorzdamico/vitorzdamico/blob/output/github-contribution-grid-snake.svg)
  
 </div>

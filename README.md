@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center" >
+ 
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=00FFFF&vCenter=true&width=600&height=70&lines=Hello+,+I'm+Vitor+D'Amico;a+Developer+Python;)](https://git.io/typing-svg)
+ 
+ </div>
 
-<!--
-**VitorZDamico/VitorZDamico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Desenvolvedor Python 
+
+<div>
+  <a href="https://github.com/victordamico">
+  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=victordamico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordamico&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  
+  <div>
+  
+  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+</div>
+  
+###
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/victor-d-amico-6a1681226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ ![snake gif](https://github.com/victordamico/victordamico/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 Desenvolvedor Python 
+- 👨‍💻 esenvolvedor Python 
 
 <div>
   <a href="https://github.com/vitorzdamico">

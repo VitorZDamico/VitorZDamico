@@ -4,7 +4,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=00FFFF&vCenter=true&width=600&height=70&lines=Hello+,+I'm+Vitor+D'Amico;a+Developer+Python;)](https://git.io/typing-svg)
  
- </iv>
+ </div>
 
 
 
